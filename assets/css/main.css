@@ -1929,12 +1929,12 @@ input, select, textarea {
 			margin-bottom: 0.25em;
 		}
 
-		.box.style2 .image {
+		.box.style2 img {
 			position: relative;
 			left: 2em;
 			top: 2em;
 			margin: -4em 0 4em -4em;
-			width: auto;
+			width:auto;
 		}
 
 /* Icons */
